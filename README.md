@@ -48,7 +48,7 @@
 💡 *Pinned projects that showcase my skills!*  
 | Project | Description | Technologies | Link |
 |---------|------------|-------------|------|
-| **Bankomat Console App** | A simple ATM simulation | C# .NET, SQL | [Repo](https://github.com/nourromeo/bankomat) |
+| **Bankomat Console App** | A simple ATM simulation | C# .NET, SQL | [Repo](https://github.com/nourromeo/myProjects) |
 | **Portfolio Website** | My personal website showcasing projects | HTML, CSS, JavaScript | [Repo](https://nourromeo.github.io/NourPortfolio/) |
 
 ---
