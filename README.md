@@ -55,10 +55,7 @@
 
 ### 🌍 **Connect With Me**
 <p align="left">
-<a href="https://twitter.com/nourromeo">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" width="40" />
-</a>
-
+<a href="https://twitter.com/nourromeo" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nour-ibrahim-830211194" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nourromeo" height="30" width="40" /></a>
 <a href="https://fb.com/nour.romeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nourromeo" height="30" width="40" /></a>
 <a href="https://instagram.com/nourromeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourromeo" height="30" width="40" /></a>
