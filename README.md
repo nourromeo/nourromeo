@@ -62,7 +62,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 📊 **GitHub Stats**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourromeo&show_icons=true&locale=en&layout=compact" alt="nourromeo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourromeo&show_icons=true&locale=en" alt="nourromeo" /></p>
@@ -74,7 +74,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nourromeo&theme=onedark&row=1&margin-w=15" alt="trophies" />
 </p>
-
+-->
 ---
 
 <!---
