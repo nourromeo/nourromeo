@@ -14,9 +14,10 @@
 ---
 
 ### 📚 **Currently Learning**
-- 🛠️ ASP.NET Core & Web API
-- 📱 React Native for mobile apps
-- 🔍 Clean Code & Software Architecture
+- 🛠️ Advanced C# Development
+- 🔗 ASP.NET Core & Web API
+- 💾 SQL & Database Design
+- 🧪 Test-Driven Development (TDD) in .NET
 
 ---
 
@@ -25,7 +26,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
 
 #### **Front-End Development**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
