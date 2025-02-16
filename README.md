@@ -49,7 +49,7 @@
 | Project | Description | Technologies | Link |
 |---------|------------|-------------|------|
 | **Bankomat Console App** | A simple ATM simulation | C# .NET, SQL | [Repo](https://github.com/nourromeo/bankomat) |
-| **Portfolio Website** | My personal website showcasing projects | HTML, CSS, JavaScript | [Repo]([https://github.com/nourromeo/portfolio](https://nourromeo.github.io/NourPortfolio/)) |
+| **Portfolio Website** | My personal website showcasing projects | HTML, CSS, JavaScript | [Repo](https://nourromeo.github.io/NourPortfolio/) |
 
 ---
 
