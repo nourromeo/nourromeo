@@ -1,38 +1,83 @@
 ![banner](https://user-images.githubusercontent.com/59024116/210884933-8682a5f8-8518-4f0f-8440-067a09d62022.png)
 
 <h1 align="center">Hi 👋, I'm Nour Ibrahim</h1>
-<h3 align="center">I love the constant development of technology. My ambition and goal in the field of information technology and design is to make technology useful and easy to use, so that the whole society can use technology smoothly. I am a front-end and back-end developer. I can give as much as I can a clean code and modern design. I also make websites and apps more and more interactive and useful. Some areas that Im good at: Java | C#.NET | HTML & CSS | Android Studio.</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate About Web & App Development | Lifelong Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nourromeo&label=Profile%20views&color=0e75b6&style=flat" alt="nourromeo" /> </p>
+### 🚀 **About Me**
+- 🎓 Student passionate about **Web & App Development**
+- 💡 Always learning new technologies and improving my skills
+- 👨‍💻 Interested in **.NET Development, Java, and Android Development**
+- 🌍 Open to collaborating on projects & hackathons
 
-<p align="left"> <a href="https://twitter.com/nourromeo" target="blank"><img src="https://img.shields.io/twitter/follow/nourromeo?logo=twitter&style=for-the-badge" alt="nourromeo" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📚 **Currently Learning**
+- 🛠️ ASP.NET Core & Web API
+- 📱 React Native for mobile apps
+- 🔍 Clean Code & Software Architecture
+
+---
+
+### 🛠 **Languages & Tools**
+#### **Programming Languages**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)  
+
+#### **Front-End Development**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
+
+#### **Back-End Development**  
+![.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)  
+
+#### **Tools & Platforms**  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+
+---
+
+### 🔥 **Projects & Work**
+💡 *Pinned projects that showcase my skills!*  
+| Project | Description | Technologies | Link |
+|---------|------------|-------------|------|
+| **Bankomat Console App** | A simple ATM simulation | C# .NET, SQL | [Repo](https://github.com/nourromeo/bankomat) |
+| **Portfolio Website** | My personal website showcasing projects | HTML, CSS, JavaScript | [Repo](https://github.com/nourromeo/portfolio) |
+
+---
+
+### 🌍 **Connect With Me**
 <p align="left">
 <a href="https://twitter.com/nourromeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nourromeo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nour-ibrahim-830211194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nourromeo" height="30" width="40" /></a>
-<a href="https://fb.com/nour.romeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nourromeo" height="30" width="40" /></a>
-<a href="https://instagram.com/nourromeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourromeo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nour-ibrahim-830211194" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nourromeo" height="30" width="40" /></a>
+<a href="https://fb.com/nour.romeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nourromeo" height="30" width="40" /></a>
+<a href="https://instagram.com/nourromeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourromeo" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-
-
+### 📊 **GitHub Stats**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourromeo&show_icons=true&locale=en&layout=compact" alt="nourromeo" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourromeo&show_icons=true&locale=en" alt="nourromeo" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourromeo&" alt="nourromeo" /></p>
 
+---
 
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nourromeo&theme=onedark&row=1&margin-w=15" alt="trophies" />
+</p>
 
+---
 
 <!---
 nourromeo/nourromeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
