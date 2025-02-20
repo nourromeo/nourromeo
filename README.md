@@ -14,10 +14,9 @@
 ---
 
 ### 📚 **Currently Learning**
-- 🛠️ Advanced C# Development
+- 🛠️ C# Development
 - 🔗 ASP.NET Core & Web API
 - 💾 SQL & Database Design
-- 🧪 Test-Driven Development (TDD) in .NET
 
 ---
 
